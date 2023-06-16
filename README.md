@@ -18,7 +18,8 @@ Please suggest mobile-first companies along with detailed information, including
 - Uber
 
 # Demo
-https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/305ff273-473f-42bb-8101-ffc295878af0
+https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/ce2d4e75-6e77-44bc-968c-688d4a716d18
+
 
 # Next Step
 - Android jobs
