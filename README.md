@@ -7,6 +7,7 @@ Finding mobile jobs on LinkedIn is often unhelpful due to the absence of filters
 To retrieve native mobile jobs, I select companies with dedicated mobile teams that develop apps using native technologies.
 
 <img src="https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/5695420f-c001-48bf-a514-34d27d3f7097" width=500>
+<br>
 https://www.linkedin.com/posts/sergey-pekar_ios-reactnative-memes-activity-7067889459379228672-fAbo
 
 # Contribution
@@ -28,15 +29,20 @@ https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/ce2d4e75-6e77-44bc-
 ```swift
 import SwiftJobs
 
-let appleJobs = try await Apple.jobs()
-let uberJobs = try await Uber.jobs()
+do {
+      let appleJobs = try await Apple.jobs()
+      let uberJobs = try await Uber.jobs()
+            
+      for item in appleJobs {
+          print("\(item.title) - \(item.description) - \(item.location)")
+      }
       
-for item in appleJobs {
-    print("\(item.title) - \(item.description) - \(item.location)")
+      for item in uberJobs {
+          print("\(item.title) - \(item.description) - \(item.location)")
+      }
 }
-
-for item in uberJobs {
-    print("\(item.title) - \(item.description) - \(item.location)")
+catch {
+      //handle errors
 }
 ```
 
