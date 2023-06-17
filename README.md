@@ -23,3 +23,6 @@ https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/ce2d4e75-6e77-44bc-
 
 # Next Step
 - Android jobs
+
+# Dependencies
+SwiftSoup
