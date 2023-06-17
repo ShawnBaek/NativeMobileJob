@@ -6,6 +6,9 @@ Finding mobile jobs on LinkedIn is often unhelpful due to the absence of filters
 
 To retrieve native mobile jobs, I select companies with dedicated mobile teams that develop apps using native technologies.
 
+![1685116161470](https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/5695420f-c001-48bf-a514-34d27d3f7097)
+[image source: https://www.linkedin.com/posts/sergey-pekar_ios-reactnative-memes-activity-7067889459379228672-fAbo]
+
 # Contribution
 Please suggest mobile-first companies along with detailed information, including:
 - Career site URL
