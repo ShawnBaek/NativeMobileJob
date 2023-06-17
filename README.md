@@ -20,6 +20,22 @@ Please suggest mobile-first companies along with detailed information, including
 # Demo
 https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/ce2d4e75-6e77-44bc-968c-688d4a716d18
 
+# How to use
+
+```swift
+import SwiftJobs
+
+let appleJobs = try await Apple.jobs()
+let uberJobs = try await Uber.jobs()
+      
+for item in appleJobs {
+    print("\(item.title) - \(item.description) - \(item.location)")
+}
+
+for item in uberJobs {
+    print("\(item.title) - \(item.description) - \(item.location)")
+}
+```
 
 # Next Step
 - Android jobs
