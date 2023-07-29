@@ -17,9 +17,13 @@ Please suggest mobile-first companies along with detailed information, including
 - Tech stacks (Swift / Objective-C / Architecture)
 - Team size
 
-# Mobile First Company Lists (Already added)
-- Apple
-- Uber
+# Mobile First Company Lists
+| Company       | Country         | Minimum Support iOS | Status |
+|---------------|-----------------|---------------------|--------|
+| Apple         | USA, Canada, UK |                     | Added  |
+| Uber          |                 |                     | Added  |
+| 99.co         | Singapore       | iOS14               | Todo   |
+| Bending Spoon | Italy           |                     |        |
 
 # Demo
 https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/ce2d4e75-6e77-44bc-968c-688d4a716d18
