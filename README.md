@@ -22,7 +22,7 @@ Please suggest mobile-first companies along with detailed information, including
 |----------------|-----------------|---------------------|--------|
 | Apple          | USA, Canada, UK |                     | Added  |
 | Uber           |                 |                     | Added  |
-| 99.co          | Singapore       | iOS14               | Todo   |
+| Meta           | USA, UK         |                     |        |
 | Bending Spoons | Italy           |                     |        |
 
 # Demo
