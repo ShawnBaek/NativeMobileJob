@@ -18,13 +18,13 @@ Please suggest mobile-first companies along with detailed information, including
 - Team size
 
 # Mobile First Company Lists
-| Company        | Country         | Minimum Support iOS | Status | Career Page                                         | Products |
-|----------------|-----------------|---------------------|--------|-----------------------------------------------------|----------|
-| Apple          | USA, Canada, UK |                     | Added  | [Link](https://jobs.apple.com)!                     |          |
-| Uber           |                 |                     | Added  | [Link](https://www.uber.com/us/en/careers/)!        |          |
-| Meta           | USA, UK         |                     |        | [Link](https://www.metacareers.com)!                |          |
-| Bending Spoons | Italy           |                     |        | [Link](https://jobs.bendingspoons.com)              |          |
-| amo            | France          |                     |        | [Link](https://amo.co/jobs/)!                       |          |
+| Company        | Country             | Minimum Support iOS | Status | Career Page                                         | Products |
+|----------------|---------------------|---------------------|--------|-----------------------------------------------------|----------|
+| Apple          | USA, Canada, UK     |                     | Added  | [Link](https://jobs.apple.com)                      |          |
+| Uber           | USA, Canada, Brazil |                     | Added  | [Link](https://www.uber.com/us/en/careers/)         |          |
+| Meta           | USA, UK             |                     |        | [Link](https://www.metacareers.com)                 |          |
+| Bending Spoons | Italy               |                     |        | [Link](https://jobs.bendingspoons.com)              |          |
+| amo            | France              |                     |        | [Link](https://amo.co/jobs/)                        |          |
 
 
 # Demo
