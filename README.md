@@ -2,9 +2,11 @@
 Fetch job listings directly from the career pages of mobile-first companies.
 
 # Motivation
-Finding mobile jobs on LinkedIn is often unhelpful due to the absence of filters such as minimum target iOS version, team size, and tech stacks. Moreover, mobile jobs nowadays encompass not only native mobile positions but also hybrid framework roles like React Native and Flutter.
+After being laid off, ironically on April Fools' Day 2024, I struggled to find a mobile engineer position despite over a decade of software engineering experience. I discovered that many companies are reluctant to hire senior or staff-level mobile engineers, and finding companies that support visa sponsorship is particularly challenging. To assist others in similar situations, I decided to create and share a list of opportunities specifically for mobile engineers. I hope this resource proves helpful to many in the field.
 
-To retrieve native mobile jobs, I select companies with dedicated mobile teams that develop apps using native technologies.
+Finding mobile jobs on LinkedIn can be unhelpful due to the lack of specific filters such as minimum target iOS version, team size, and tech stacks. Additionally, mobile job listings today often include roles for hybrid frameworks like React Native and Flutter, alongside native positions. Furthermore, many companies do not post job openings on platforms like LinkedIn to save costs. Therefore, it is often more effective to check the hiring pages of companies directly rather than relying on platforms like LinkedIn.
+
+To focus on native mobile jobs, I select companies with dedicated mobile teams that develop apps using native technologies.
 
 <img src="https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/5695420f-c001-48bf-a514-34d27d3f7097" width=500>
 <br>
@@ -18,13 +20,14 @@ Please suggest mobile-first companies along with detailed information, including
 - Team size
 
 # Mobile First Company Lists
-| Company        | Country             | Minimum Support iOS | Status | Career Page                                         | Products |
-|----------------|---------------------|---------------------|--------|-----------------------------------------------------|----------|
-| Apple          | USA, Canada, UK     |                     | Added  | [Link](https://jobs.apple.com)                      |          |
-| Uber           | USA, Canada, Brazil |                     | Added  | [Link](https://www.uber.com/us/en/careers/)         |          |
-| Meta           | USA, UK             |                     |        | [Link](https://www.metacareers.com)                 |          |
-| Bending Spoons | Italy               |                     |        | [Link](https://jobs.bendingspoons.com)              |          |
-| amo            | France              |                     |        | [Link](https://amo.co/jobs/)                        |          |
+| Company        | Country             | Minimum Support iOS | Support Visa | Status | Career Page                                 | Products                                                                                          |
+|----------------|---------------------|---------------------|--------------|--------|---------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Apple          | USA, Canada, UK     |                     |              | Added  | [Link](https://jobs.apple.com)              |                                                                                                   |
+| Uber           | USA, Canada, Brazil |                     |              | Added  | [Link](https://www.uber.com/us/en/careers/) |                                                                                                   |
+| Meta           | USA, UK             |                     | Yes          |        | [Link](https://www.metacareers.com)         |                                                                                                   |
+| Bending Spoons | Italy               |                     | Yes          |        | [Link](https://jobs.bendingspoons.com)      |                                                                                                   |
+| amo            | France              |                     | Yes          |        | [Link](https://amo.co/jobs/)                | [ID](https://get.amo.co/id) [Capture](https://get.amo.co/capture) [Bump](https://get.amo.co/bump) |
+| Amazon         | USA, UK, Spain      |                     | Yes          |        | [Link](https://www.amazon.jobs/en/)         |                                                                                                   |
 
 
 # Demo
