@@ -1,4 +1,4 @@
-# nativeMobileJob
+# NativeMobileJob
 Fetch job listings directly from the career pages of mobile-first companies.
 
 # Motivation
@@ -18,12 +18,14 @@ Please suggest mobile-first companies along with detailed information, including
 - Team size
 
 # Mobile First Company Lists
-| Company        | Country         | Minimum Support iOS | Status |
-|----------------|-----------------|---------------------|--------|
-| Apple          | USA, Canada, UK |                     | Added  |
-| Uber           |                 |                     | Added  |
-| Meta           | USA, UK         |                     |        |
-| Bending Spoons | Italy           |                     |        |
+| Company        | Country         | Minimum Support iOS | Status | Career Page                                         | Products |
+|----------------|-----------------|---------------------|--------|-----------------------------------------------------|----------|
+| Apple          | USA, Canada, UK |                     | Added  | [Link](https://jobs.apple.com)!                     |          |
+| Uber           |                 |                     | Added  | [Link](https://www.uber.com/us/en/careers/)!        |          |
+| Meta           | USA, UK         |                     |        | [Link](https://www.metacareers.com)!                |          |
+| Bending Spoons | Italy           |                     |        | [Link](https://jobs.bendingspoons.com)              |          |
+| amo            | France          |                     |        | [Link](https://amo.co/jobs/)!                       |          |
+
 
 # Demo
 https://github.com/ShawnBaek/nativeMobileJob/assets/12643700/ce2d4e75-6e77-44bc-968c-688d4a716d18
